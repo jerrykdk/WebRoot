@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+  font-family: sans-serif;
+}
+.container-fluid {
+  height: 50%;
+}
+.col-sm-12, .fullheight {
+  height: 100%;
+}
+.sideBarBG {
+  background-color: #B0C4DE;
+  height: 100%;
+}
